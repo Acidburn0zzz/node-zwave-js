@@ -2998,10 +2998,17 @@ ajv@^7.0.2:
     require-from-string "^2.0.2"
     uri-js "^4.2.2"
 
-alcalzone-shared@^3.0.1, alcalzone-shared@^3.0.2, alcalzone-shared@^3.0.3:
+alcalzone-shared@^3.0.1, alcalzone-shared@^3.0.2:
   version "3.0.3"
   resolved "https://registry.yarnpkg.com/alcalzone-shared/-/alcalzone-shared-3.0.3.tgz#b9eb6f97b3bb8906d762eb968b8ebea899c29f82"
   integrity sha512-DHScJbVDE9VT5ZBahgmeLHnWf5+KdnukWeqMfkVg9CUtI0CWEKWjRazKo17wr4PGQmnA4MYx/alZMADrd0gaYg==
+  dependencies:
+    debug "^4.3.1"
+
+alcalzone-shared@^4.0.0:
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/alcalzone-shared/-/alcalzone-shared-4.0.0.tgz#7e0a0ad947b8ada966a76321bbedede24fe6c97b"
+  integrity sha512-UJ/8eEd4sZwjmMpV4PahmDS5U05UdqWPYJxT+a8xNOTqnNn4vgbuyFMNX1kSx2KKiwX3yJi5QkISS3kY7pXWfQ==
   dependencies:
     debug "^4.3.1"
 
