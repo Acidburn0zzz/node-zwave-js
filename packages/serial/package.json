@@ -33,7 +33,7 @@
   "dependencies": {
     "@zwave-js/core": "7.2.4",
     "alcalzone-shared": "^3.0.3",
-    "serialport": "^9.0.7",
+    "serialport": "^11.0.1",
     "winston": "^3.3.3"
   },
   "scripts": {
